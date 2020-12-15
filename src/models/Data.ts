@@ -3,7 +3,7 @@ import {
 } from '@/types';
 import Util from '@/models/Util';
 
-const GITHUB_USER_LOGIN = 'tamino-martinius';
+const GITHUB_USER_LOGIN = 'ctesniere';
 const MIN_WAIT_DURATION = 3000;
 
 declare const DEBUG_MODE: boolean;
